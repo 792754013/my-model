@@ -1,14 +1,15 @@
 {
   "files": {
     "main.css": "./static/css/main.b910c0f2.css",
-    "main.js": "./static/js/main.7898c8ad.js",
+    "main.js": "./static/js/main.f85497c8.js",
     "static/media/watch-v1.glb": "./static/media/watch-v1.dadfd8f62c0375299839.glb",
+    "static/media/potsdamer_platz_1k.hdr": "./static/media/potsdamer_platz_1k.f2c2783b101b748975d5.hdr",
     "index.html": "./index.html",
     "main.b910c0f2.css.map": "./static/css/main.b910c0f2.css.map",
-    "main.7898c8ad.js.map": "./static/js/main.7898c8ad.js.map"
+    "main.f85497c8.js.map": "./static/js/main.f85497c8.js.map"
   },
   "entrypoints": [
     "static/css/main.b910c0f2.css",
-    "static/js/main.7898c8ad.js"
+    "static/js/main.f85497c8.js"
   ]
 }
